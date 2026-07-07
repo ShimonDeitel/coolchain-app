@@ -1,0 +1,42 @@
+{
+  "identifier": "coolchain",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500001",
+      "localizations": [],
+      "name": "Coolchain - Temp Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "3.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "coolchain_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Out-of-range alerts and exportable compliance report",
+              "displayName": "Coolchain - Temp Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "coolchain_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Coolchain - Temp Log Pro Monthly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
